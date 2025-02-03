@@ -47,6 +47,11 @@
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-aleman-palencia-56426a321/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alemanpalencialuis@gmail.com)
+
 ## 🔜 Upcoming Technologies to Learn
 
 - 🌟 **Angular**
@@ -61,16 +66,10 @@ A **human resources** digital platform that optimizes communication between empl
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aleman0207&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aleman0207" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleman0207&layout=compact&bg_color=transparent" />
-</p>
+<div align="center">
+  
+[![](https://github-readme-stats.vercel.app/api?username=aleman0207&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/aleman0207)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=aleman0207&theme=material-palenight)](https://github.com/aleman0207)
+</div>
 
-## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/luis-aleman-palencia-56426a321)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alemanpalencialuis@gmail.com)
-
----
-⭐️ Based on a custom design to highlight my experience and skills.
